@@ -1,4 +1,4 @@
-# Mearns-Detailers
+Mearns Detailers
 Detailing website
 <!DOCTYPE html>
 <html lang="en">
